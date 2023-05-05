@@ -1,0 +1,674 @@
+*{
+    box-sizing:border-box;
+}
+html{
+    margin:0%;
+    padding:0%;
+    height:500px;
+}
+/*div{
+  resize:both;
+  overflow: hidden;
+}*/
+#div1{
+    margin-left:20px;
+}
+#iconuser{
+    font-size:x-large;
+    margin-top:10px;
+}
+#p1{
+    margin-left:20px;
+    font-size: medium;
+    margin-top: -30px;
+}
+#div2{
+    margin-left:75%;  
+}
+#div2 #icon2,#icon3,#icon4{
+    margin:20px;
+    font-weight: lighter;
+}
+#div4{
+  margin-left:80px;
+  font-size:small;
+  color:azure;
+}
+#icon5{
+    margin-top:3px;
+    margin-left:15px;
+}
+#p3{
+    margin-left:70%;
+}
+#h1{
+    margin-left:10%;
+    color:azure;
+}
+#div5{
+    margin-left:19%;
+}
+#icon7{
+    margin-left:247px;
+}
+#icon8{
+    margin-left:250px;
+}
+/*icon background color*/
+#icon6{
+    background-color:white;
+    padding:20px;
+    border-radius:10px;
+}
+#icon7{
+    background-color:white;
+    padding:20px;
+    border-radius:10px;
+}
+#icon8{
+    background-color:white;
+    padding:20px;
+    border-radius:10px;
+}
+/*icon background end*/
+#p4,#p5,#p6{
+    font-size: x-small;
+    margin-top:10px;
+}
+#div6{
+    margin-left:19%;
+    color:azure;
+}
+#p5,#p6{
+  margin-left:33%;
+}
+#p6{
+    margin-left:35%;
+}
+#div3{
+    position:absolute;
+    left:15px;
+    border-radius:25px;
+    background-color:rgba(37, 186, 37, 0.8);
+    width:155vh;
+    margin-right:3%;
+}
+#p2,#p3,#icon5{
+    padding-top:15px;
+}
+/*paymrnt text section*/
+#paytext{
+margin:23% 0% 0% 3%;
+}
+/*icon after payment first icons*/
+#div8{
+    font-size:x-large;
+    margin:2% 0% 0% 10%;
+}
+#icon10,#icon11,#icon12{
+    margin-left:23%;
+}
+#icon9{
+    background-color:rgb(189, 255, 189);
+    padding:12px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#icon10{
+    background-color:rgb(189, 255, 189);
+    padding:12px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#icon11{
+    background-color:rgb(189, 255, 189);
+    padding:12px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#icon12{
+    background-color:rgb(189, 255, 189);
+    padding:12px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+/*text under icons*/
+#tdiv8{
+    margin:1% 0% 0% 10%; 
+    font-style: italic;
+    font-weight:bolder;
+    font-size:x-small;
+}
+#p8,#p9,#p10{
+    margin-left:24.7%;
+}
+#p10{
+    margin-left:26%;
+}
+/*icon 2 section*/
+#div9{
+    font-size:x-large;
+    margin:2% 0% 0% 10%;
+    font-weight:lighter;
+}
+#icon14,#icon15,#icon16{
+    margin-left:23%;
+}
+#icon16{
+    margin-left:23%;
+}
+#icon13{
+    background-color:rgb(189, 255, 189);
+    padding:12px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#icon14{
+    background-color:rgb(189, 255, 189);
+    padding:12px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#icon15{
+    background-color:rgb(189, 255, 189);
+    padding:12px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#icon16{
+    background-color:rgb(189, 255, 189);
+    padding:12px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+/* text under icon 2*/
+#tdiv9{
+    margin:1% 0% 0% 10%; 
+    font-style: italic;
+    font-weight:bolder;
+    font-size:x-small;
+}
+#p12,#p13,#p14{
+    margin-left:23%;
+}
+#p14{
+    margin-left:23.7%;
+}
+/*after icon text*/
+#div10{
+    border:solid 1px transperent ;
+    width:90%;
+    height:25px;
+    border-radius:20px;
+    margin-left:4%;
+    padding-left:1%;
+    background-color:rgb(218, 207, 207, 0.5);
+}
+#span1{
+    font-size:small;
+    font-weight:bolder;
+    padding:2%;
+}
+#icon18{
+ margin-left:630px;
+}
+/*refer nd earn section*/
+#div11{
+border:1px solid transparent; 
+margin-left:3.3%;   
+width:92%;
+border-radius:5px;
+background-color:rgb(218, 207, 207, 0.3);
+padding:3%;
+}
+#icon19{
+    font-size: x-large;
+    margin-top:10px;
+    margin-left:2%;
+    background-color:rgb(189, 255, 189);
+    padding:10px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#p15,#span2{
+margin:0%;
+padding:0%;
+}
+#p15,#span2{
+    margin-left:20px;
+}
+#span2{
+font-size: small;
+}
+#p15{
+font-weight: bolder;
+}
+/*ending icon section*/
+#div12{
+    margin-top:100px;
+    margin-left:50px;
+    font-weight: lighter;
+    font-size: large;
+}
+#icon20{
+    background-color:rgb(189, 255, 189);
+    padding:10px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#icon21,#icon22,#icon23,#icon24{
+    margin-left:18%;
+    background-color:rgb(189, 255, 189);
+    padding:10px;
+    border-radius:100%;
+    color:lightseagreen;
+}
+#icon24{
+    margin-left:18.2%;
+}
+/*ending text section*/
+#div13{
+    margin-left:45px;
+    color:green;
+}
+#p17{
+    margin-left:16.5%;
+}
+#p18{
+    margin-left:15.5%;
+}
+#p19{
+    margin-left:17.8%;
+}
+#p20{
+    margin-left:19%;
+}
+
+/* media query sections*/
+@media all and (max-width:767px){
+    html{
+        padding:13px;
+    }
+    
+    /*for the border with color*/
+        #div3{
+            position:fixed;
+            border-radius:12px;
+            background-color:rgba(37, 186, 37, 0.8);
+            width:70%;
+            height:165px;
+            left:37px;
+            margin-bottom:20px;
+            margin-top:10px;
+            padding-top:-5%;
+    }
+            #p2,#p3,#icon5{
+            padding-top:3px;
+   }
+    /*icons in side the div*/
+    #div5{
+        margin-left:9%;
+        padding-top:-110%;
+       
+    }
+    #icon6{
+         padding:15px;
+         margin-top:-20px;
+    }
+    #icon7{
+        margin-left:115px;
+         padding:15px;
+         margin-top:-20px;
+    }
+    #icon8{
+       margin-left:133px;
+        padding:15px;
+        margin-top:-20px;
+    }
+    /*text inside th div with white colors*/
+    #div6{
+        margin-left:8%;
+    }
+    #p5,#p6{
+      margin-left:26%;
+    }
+    #p6{
+        margin-left:32%;
+    }#p4,#p5,#p6{
+        margin-top:2px;
+        word-spacing: 1px;
+    }
+    /*text inside div whith black color*/
+    #div4{
+        margin-left:27px;
+        font-size: xx-small;
+      }
+      #p3{
+        margin-left:57%;
+      }
+      /*user icon */
+      #div2 #icon2,#icon3,#icon4{
+        margin:10px;
+        font-size:larger;
+        font-weight: lighter;
+    }
+      #div2{
+        margin-left:95%;
+      }
+      /*user icon for user pic*/
+      #div1{
+        margin-left:15px;
+      }
+      #p1{
+        margin-left:25px;
+        font-size:xx-small;
+      }
+      
+      
+/*paymrnt text section*/
+#paytext{
+    margin:55% 0% 0% 3%;
+    }   
+    /*both icons */
+    #div8,#div9{
+        margin:2% 0% 0% 29%;
+    }
+
+    /*text after icon 1*/
+    #tdiv8,#tdiv9{
+        margin-left:29%;
+    }
+    
+#p8,#p9,#p10{
+    margin-left:28.5%;
+} 
+#p10{
+    margin-left:33%;
+}
+/*earn 15% intresr section*/
+#div10{
+    border:solid 1px transperent ;
+    width:130%;
+    height:25px;
+    border-radius:20px;
+    margin-left:55px;
+    padding-left:2%;
+    background-color:rgb(218, 207, 207, 0.5);
+}
+/*refar and earn*/
+#div11{
+    border:1px solid transparent; 
+    margin-left:45px;   
+    width:130%;
+    border-radius:20px;
+    background-color:rgb(218, 207, 207, 0.3);
+    }
+    /*end icon */
+    #div12{
+        margin-top:250px;
+        margin-left:40px;
+        font-weight: lighter;
+        font-size: large;
+    }
+    #icon21,#icon22,#icon23,#icon24{
+        margin-left:21%;
+        background-color:rgb(189, 255, 189);
+        padding:10px;
+        border-radius:100%;
+        color:lightseagreen;
+    }
+    #icon24{
+        margin-left:18%;
+    }
+    /*end text section*/
+    #div13{
+        margin-left:33px;
+        color:green;
+    }
+    #p17{
+        margin-left:16.5%;
+    }
+    #p18{
+        margin-left:15.5%;
+    }
+    #p19{
+        margin-left:18.4%;
+    }
+    #p20{
+        margin-left:20.7%;
+    }
+    #div12,#div13{
+        margin-left:18%;
+    }
+    
+
+}
+
+  /*for xr section*/
+@media all and (max-width:414px) {
+    #div12{
+        margin-top:500px;
+        margin-left:25px;
+        font-weight: lighter;
+        font-size: large;
+    }
+    /*text under last icon*/
+    #div13{
+        margin-left:9px;
+        color:green;
+    }
+    #p17{
+        margin-left:19%;
+    }
+    #p18{
+        margin-left:15%;
+    }
+    #p19{
+        margin-left:19%;
+    }
+    #p20{
+        margin-left:21%;
+    }
+}
+
+/* s 20ultra */
+@media all and (max-width:412px) {
+    #div12{
+        margin-top:550px;
+        margin-left:25px;
+        font-weight: lighter;
+        font-size: large;
+    }
+    #p16{
+        margin-left:2%;
+    }
+    #p17{
+        margin-left:16%;
+    }
+}
+
+/*pixel 5*/
+@media all and (max-width:393px) {
+    #div12{
+        margin-top:500px;
+        margin-left:40px;
+        font-weight: lighter;
+        font-size: large;
+    }
+    #div13{
+        margin-left:18px;
+        color:green;
+    }
+    #p17{
+        margin-left:19%;
+    }
+    #p18{
+        margin-left:15%;
+    }
+    #p19{
+        margin-left:19%;
+    }
+    #p20{
+        margin-left:20%;
+    } 
+}
+
+/* iphon 12 pro*/
+@media all and (max-width:390px) {
+    #div12{
+        margin-top:500px;
+        margin-left:40px;
+        font-weight: lighter;
+        font-size: large;
+    }
+    #div13{
+        margin-left:21px;
+        color:green;
+    }
+    #p17{
+        margin-left:19%;
+    }
+    #p18{
+        margin-left:15%;
+    }
+    #p19{
+        margin-left:19%;
+    }
+    #p20{
+        margin-left:21%;
+    } 
+}
+
+/*SE*/
+@media all and (max-width:375px) {
+    #div12{
+        margin-top:440px;
+        margin-left:40px;
+        font-weight: lighter;
+        font-size: large;
+    }
+    #icon21,#icon22,#icon23,#icon24{
+        margin-left:24%;
+    }
+    #p16{
+        padding-left:4%;
+    }
+    #p18,#p19,#p20{
+       padding-left:4px;
+    }
+    #p20{
+        padding-left:16px;
+    }
+
+}
+
+/* smamsung s8 */
+@media all and (max-width:360px) {
+    #div12{
+        margin-top:500px;
+        margin-left:38px;
+        font-weight: lighter;
+        font-size: large;
+    }
+    #icon21,#icon22,#icon23,#icon24{
+        margin-left:25%;
+        background-color:rgb(189, 255, 189);
+        padding:10px;
+        border-radius:100%;
+        color:lightseagreen;
+    }
+
+    #p18{
+        margin-left:15%;
+    }
+    #p19{
+        margin-left:22%;
+    }
+    #p20{
+       margin-left:23%;
+    }
+}
+
+ /*galaxy fold seciton*/
+@media all and (max-width:280px) {
+    #icon8{
+       margin-left:139px;
+    }
+    /*head icon*/
+    #div2{
+        margin-left:135%;
+      }
+      /*payment section*/
+      #paytext{
+        margin:75% 0% 0% 3%;
+        } 
+        /*second icons*/
+        #div8,#div9{
+            margin:6% 0% 0% 25%;
+        }
+        #icon10,#icon11,#icon12,#icon14,#icon15,#icon16{
+            margin-left:35%;
+        }
+        /* icon s texts*/
+        #tdiv8,#tdiv9{
+            margin:2% 0% 0% 25%;
+        }
+        #p8,#p9,#p10,#p12,#p13,#p14{
+            margin-left:35.5%;
+        }
+        #p8,#p9,#p10{
+            margin-left:43%;
+        }
+        #p10{
+            margin-left:51%;
+        }
+        /*15% intrest section*/
+        #div10{
+            width:150%;
+            height:25px;
+            border-radius:20px;
+            margin-left:67px;
+            padding-left:2%;
+        }
+        /*earn cashback section*/
+        #div11{
+            margin-left:65px;   
+            width:150%;
+        }
+        /*end icon section*/
+        #div12{
+            margin-top:650px;
+            margin-left:12px;
+            font-weight: lighter;
+            font-size: large;
+        }
+        #icon21,#icon22,#icon23,#icon24{
+            margin-left:33%;
+            background-color:rgb(189, 255, 189);
+            padding:10px;
+            border-radius:100%;
+            color:lightseagreen;
+        }
+        /*text under end icon*/
+        #div13{
+            margin-left:8px;
+            color:green;
+        }
+        #p17{
+            margin-left:24%;
+        }
+        #p18{
+            margin-left:25%;
+        }
+        #p19{
+            margin-left:27%;
+        }
+        #p20{
+           margin-left:30%;
+        } 
+    }        
+      
+       
+      
+       
+            
