@@ -542,7 +542,7 @@ font-weight: bolder;
 /*SE*/
 @media all and (max-width:375px) {
     #div12{
-        margin-top:440px;
+        margin-top:340px;
         margin-left:40px;
         font-weight: lighter;
         font-size: large;
@@ -643,7 +643,7 @@ font-weight: bolder;
             font-size: large;
         }
         #icon21,#icon22,#icon23,#icon24{
-            margin-left:33%;
+            margin-left:35%;
             background-color:rgb(189, 255, 189);
             padding:10px;
             border-radius:100%;
@@ -651,7 +651,7 @@ font-weight: bolder;
         }
         /*text under end icon*/
         #div13{
-            margin-left:8px;
+            margin-left:5px;
             color:green;
         }
         #p17{
